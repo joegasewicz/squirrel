@@ -1,2 +1,2 @@
 # simple-server
-Simple server written in C
+Simple low level TCP server written in C
