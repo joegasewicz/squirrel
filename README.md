@@ -1,4 +1,4 @@
-# lib-squirrel
+# Squirrel
 Simple low level TCP server written in C
 
 ### Concept
