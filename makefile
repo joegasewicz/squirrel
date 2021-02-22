@@ -1,4 +1,9 @@
+PROG_NAME = squirrel
+
+SRC_FILES = server.c squirrel.c
+CFLAGS = -g -Wall
+
 build:
-	gcc -g -o squirrel squirrel.c
+	gcc $(CFLAGS) -o $(PROG_NAME) $(SRC_FILES)
 run:
-	./squirrel
+	./$(PROG_NAME)
