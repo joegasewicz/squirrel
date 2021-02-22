@@ -39,7 +39,7 @@
 *.i*86
 *.x86_64
 *.hex
-squirrel
+squirrel_bin
 
 # Debug files
 *.dSYM/

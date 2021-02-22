@@ -5,6 +5,6 @@
 int main(void)
 {
     printf("Squirrel TCP Server...\n");
-    SQUIRREL_server();
+    start();
     return 0;
 }

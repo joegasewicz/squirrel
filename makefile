@@ -1,4 +1,4 @@
-PROG_NAME = squirrel
+PROG_NAME = squirrel_bin
 
 SRC_FILES = server.c squirrel.c
 CFLAGS = -g -Wall
