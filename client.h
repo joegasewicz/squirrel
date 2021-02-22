@@ -1,3 +1,3 @@
 #include <stdio.h>
 
-void client(void);
+void SQRL_client(void);

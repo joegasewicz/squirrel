@@ -1,6 +1,6 @@
 #include "client.h";
 
-void client(void)
+void SQRL_client(void)
 {
 
 }
